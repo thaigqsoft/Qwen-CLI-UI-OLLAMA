@@ -242,8 +242,8 @@ MIT License - ดูไฟล์ [LICENSE](LICENSE) สำหรับราย�
 ## การสนับสนุน
 
 สำหรับปัญหาและคำขอฟีเจอร์:
-- เปิด issue บน [GitHub Issues](https://github.com/yourusername/qwen-cli-ui/issues)
-- ตรวจสอบ [existing issues](https://github.com/yourusername/qwen-cli-ui/issues) สำหรับวิธีแก้ไข
+- เปิด issue บน [GitHub Issues](https://github.com/thaigqsoft/Qwen-CLI-UI-OLLAMA/issues)
+- ตรวจสอบ [existing issues](https://github.com/thaigqsoft/Qwen-CLI-UI-OLLAMA/issues) สำหรับวิธีแก้ไข
 - แนบ logs รายละเอียดเมื่อรายงานบั๊ก
 
 ---

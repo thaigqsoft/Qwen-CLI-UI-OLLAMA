@@ -242,8 +242,8 @@ MIT License - see [LICENSE](LICENSE) file for details
 ## Support
 
 For issues and feature requests:
-- Open an issue on [GitHub Issues](https://github.com/yourusername/qwen-cli-ui/issues)
-- Check [existing issues](https://github.com/yourusername/qwen-cli-ui/issues) for solutions
+- Open an issue on [GitHub Issues](https://github.com/thaigqsoft/Qwen-CLI-UI-OLLAMA/issues)
+- Check [existing issues](https://github.com/thaigqsoft/Qwen-CLI-UI-OLLAMA/issues) for solutions
 - Include detailed logs when reporting bugs
 
 ---
